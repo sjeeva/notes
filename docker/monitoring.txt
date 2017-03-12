@@ -1,1 +1,2 @@
 Prometheus, CAdvisor, NodeExporter and the AlertManagers
+https://github.com/robinong79/docker-swarm-monitoring
