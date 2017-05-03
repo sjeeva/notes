@@ -1,1 +1,3 @@
 # notes
+
+I am mostly migrating from github to gitlab ...
